@@ -1,10 +1,4 @@
-These repos will make you realized. That so greatful you are.
-Probably you can make little smile to your masterpiece.
-Okay, I'm @xkuadrattt.
-I'm sorry. I can't give you hug.
-Good luck, enjoy your lovely day ヾ(￣▽￣) Bye~Bye~
-
-
+Slicing HTML | CSS | Javascript | Tailwind CSS
 
 
 <!---
